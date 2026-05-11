@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "hospital-seo",
+      "title": "병원 블로그 SEO",
+      "category": "의료 · SEO",
+      "summary": "진료 키워드 중심 구조 개편으로 상위 노출 구간 확대",
+      "tags": ["블로그", "로컬 SEO", "콘텐츠 설계"],
+      "accent": "#4361EE"
+    },
+    {
+      "id": "edu-branding",
+      "title": "교육 콘텐츠 브랜딩",
+      "category": "교육 · 브랜딩",
+      "summary": "브랜드 톤 통일과 시리즈형 기획으로 전환율 개선",
+      "tags": ["브랜딩", "시리즈 기획", "톤앤매너"],
+      "accent": "#4CC9F0"
+    },
+    {
+      "id": "local-keywords",
+      "title": "지역 기반 키워드 전략",
+      "category": "로컬 · 키워드",
+      "summary": "지역 검색 의도 분석 후 랜딩·블로그 연계 전략 수립",
+      "tags": ["키워드", "지역 마케팅", "검색 의도"],
+      "accent": "#4361EE"
+    },
+    {
+      "id": "personal-blog",
+      "title": "퍼스널 브랜드 블로그",
+      "category": "개인 · 콘텐츠",
+      "summary": "전문성 스토리텔링과 검색 친화적 아웃라인으로 성장",
+      "tags": ["퍼스널 브랜드", "스토리", "SEO"],
+      "accent": "#2B2D42"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "IM.Press — SEO 블로그 홍보 에이전시",
+  "short_name": "IM.Press",
+  "description": "검색되는 브랜드를 만드는 SEO 기반 블로그 홍보 에이전시",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F8F9FA",
+  "theme_color": "#2B2D42",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
